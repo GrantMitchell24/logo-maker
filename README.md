@@ -12,7 +12,7 @@ Author: Grant Mitchell
 
 License: See Repo
 
-![Preview image](./Assets/Images/Logo-Demo%201.png)
+![Preview image](./Assets/Images/Logo-Demo%202.png)
 
 ![Preview image](./Assets/Images/Logo-Demo-Replace.png)
 

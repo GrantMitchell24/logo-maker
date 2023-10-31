@@ -34,7 +34,7 @@ class CLI {
       .then((response) => {
         let shape;
         if (response.shapeType === "circle") {
-          shape === new Circle()
+          shape = new Circle()
         }
         else if (response.shapeType === "square") {
           shape = new Square()
